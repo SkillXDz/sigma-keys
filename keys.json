@@ -1,0 +1,24 @@
+{
+  "keys": {
+    "SIGMA-AAAA-1111-BBBB": {
+      "days": 30,
+      "created": "2026-03-10",
+      "used": false,
+      "used_by": null,
+      "used_date": null,
+      "hwid": null,
+      "active": true,
+      "notes": "مفتاح تجريبي"
+    },
+    "SIGMA-XXXX-2222-YYYY": {
+      "days": 90,
+      "created": "2026-03-10",
+      "used": false,
+      "used_by": null,
+      "used_date": null,
+      "hwid": null,
+      "active": true,
+      "notes": "مفتاح المستخدم"
+    }
+  }
+}
